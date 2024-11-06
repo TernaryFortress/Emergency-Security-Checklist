@@ -1,6 +1,6 @@
 # Security-Checklist
 
-This repository is designed to server as a rolling-update security checklist for closing the holes that big-tech's data-whoring practices open up.
+This repository is designed to serve as a rolling-update security checklist for closing the holes that big-tech's data-whoring practices open up.
 
 We wish to do our best to ensure that only necessary adjustments are made, and to maximize usability of the end-user's devices.
 
