@@ -13,6 +13,10 @@ One should follow up with the Emergency-Privacy-Checklist, to further enable sec
 
 I am not a security specialist, just someone who cares, who has noticed a need for something that doesn't yet exist, someone who knows for a fact that people are about to fall through the cracks.
 
+## We strongly encourage more educated experts to iterate upon and improve this template.
+
+This guide is for INDIVIDUAL USERS who are unable to, for one reason or another, seek outside help.
+
 Android Guide: https://github.com/TernaryFortress/Emergency-Security-Checklist/tree/main/Android
 Windows Guide:
 Linux Guide:
@@ -24,3 +28,4 @@ Mac: I am unable to provide insight into this one, however the steps are hopeful
 # Required Domain Knowledge:
 A/B Testing: The act of downloading software from two separate locations, and checking to ensure they match
 Domain Name Service (DNS): The phone-book of the internet. This usually goes through your Internet Service Provider by default.
+BIOS: 
