@@ -28,6 +28,8 @@ Mac: I am unable to provide insight into this one, however the steps are hopeful
 --------------------------------------------------
 
 # Required Domain Knowledge:
+Walled Garden: A source of software that uses certificate pinning - this is generally a Man-in-the-Middle proof way to download software. Examples are: Microsoft Store, Google Play, Snap, Apple App Store.
+
 A/B Testing: The act of downloading software from two separate locations, and checking to ensure they match
 
 Domain Name Service (DNS): The phone-book of the internet. This usually goes through your Internet Service Provider by default.
@@ -40,6 +42,6 @@ Browser: The application that you access the internet through (Firefox, Chrome, 
 
 Remote-Desktop: An application used to control your computer without your input.
 
+Router: A device that your computer either plugs into via an Ethernet cable, or connects to through wifi. If your Internet Service Providers (ISPs) provide 
 
-
-
+Modem: A device that translates the Fiber or Coax signal from outside your house into an ethernet connection.
